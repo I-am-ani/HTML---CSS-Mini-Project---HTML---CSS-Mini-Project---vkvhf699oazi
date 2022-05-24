@@ -1,0 +1,79 @@
+/* Navigation */
+#navbar {
+  flex-direction: column;
+}
+
+#navbar ul li a{
+  font-size: 1rem;
+  padding: 0px 7px;
+  padding-bottom: 8px;
+}
+/* Home section */
+#home{
+  height: 370px; 
+  padding: 3px 28px;
+}
+
+#home::before{
+  height: 480px; 
+}
+
+#home p{
+  font-size: 16px;
+}
+
+/* Services section  */
+#services {
+  flex-direction: column;
+  margin: 6px 13px;
+}
+#services-container {
+  margin: 0px 1px;
+  background-color: coral;
+}
+#services .box {
+  padding: 14px;
+  margin: 2px 0px;
+  margin-bottom: 20px;
+}
+
+#services .box img {
+  height: 100px;
+}
+#services .box p {
+  font-size: 18px;
+}
+/* Footer */
+#main-footer {
+  margin-top: 81px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.sub-footer {
+  padding: 14px 19px;
+}
+.sub-footer a {
+  font-size: 1rem;
+}
+#footer-line {
+  margin-top: 51px;
+  margin-bottom: 0px;
+}
+/* Utility classes */
+.h-primary {
+  font-size: 37px;
+}
+h2 {
+  font-size: 1.3rem;
+}
+h3 {
+  font-size: 1rem;
+  margin: 20px 0px 1rem;
+  letter-spacing: 0.1rem;
+}
+.btn {
+  font-size: 13px;
+  padding: 4px 8px;
+}
+
+
