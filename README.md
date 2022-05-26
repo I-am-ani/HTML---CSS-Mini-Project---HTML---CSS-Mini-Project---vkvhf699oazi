@@ -6,3 +6,6 @@
 
 # Features: 
 Some small animations have been used, like hover effect.
+
+# Publish
+Site is published at https://i-am-ani.github.io/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---vkvhf699oazi/
